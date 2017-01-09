@@ -7,7 +7,11 @@ Healing Word
 1st-level evocation
 ^^^^^^^^^^^^^^^^^^^
 
-**Casting Time:** 1 bonus action Range: 60 feet Components: V
+**Casting Time:** 1 bonus action
+
+**Range:** 60 feet
+
+**Components:** V
 
 **Duration:** Instantaneous
 
