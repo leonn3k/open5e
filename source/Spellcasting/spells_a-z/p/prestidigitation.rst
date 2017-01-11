@@ -33,5 +33,5 @@ practice. You create one of the following magical effects within range:
    your hand and that lasts until the end of your next turn.
 
 If you cast this spell multiple times, you can have up to three of its
-non instantaneous effects active at a time, and you can dismiss such an
+non-instantaneous effects active at a time, and you can dismiss such an
 effect as an action.
