@@ -40,11 +40,9 @@ possibly using magic. "Description" is a place whose location and
 appearance you know through someone else's description, perhaps from a
 map.
 
-"False destination" is a place that doesn't exist.
-
-Perhaps you tried to scry an enemy's sanctum but instead viewed an
-illusion, or you are attempting to teleport to a familiar location that
-no longer exists.
+"False destination" is a place that doesn't exist. Perhaps you tried 
+to scry an enemy's sanctum but instead viewed an illusion, or you are 
+attempting to teleport to a familiar location that no longer exists.
 
 **On Target.** You and your group (or the target object) appear where
 you want to.
