@@ -45,17 +45,18 @@ choice:
    friend's failed save. You can force the reroll to be made with
    advantage or disadvantage, and you can choose whether to use the
    reroll or the original roll.
--  You might be able to achieve something beyond the scope of the above
-   examples. State your wish to the GM as precisely as possible. The GM
-   has great latitude in ruling what occurs in such an instance; the
-   greater the wish, the greater the likelihood that something goes
-   wrong. This spell might simply fail, the effect you desire might only
-   be partly achieved, or you might suffer some unforeseen consequence
-   as a result of how you worded the wish. For example, wishing that a
-   villain were dead might propel you forward in time to a period when
-   that villain is no longer alive, effectively removing you from the
-   game. Similarly, wishing for a legendary magic item or artifact might
-   instantly transport you to the presence of the item's current owner.
+
+You might be able to achieve something beyond the scope of the above
+examples. State your wish to the GM as precisely as possible. The GM
+has great latitude in ruling what occurs in such an instance; the
+greater the wish, the greater the likelihood that something goes
+wrong. This spell might simply fail, the effect you desire might only
+be partly achieved, or you might suffer some unforeseen consequence
+as a result of how you worded the wish. For example, wishing that a
+villain were dead might propel you forward in time to a period when
+that villain is no longer alive, effectively removing you from the
+game. Similarly, wishing for a legendary magic item or artifact might
+instantly transport you to the presence of the item's current owner.
 
 The stress of casting this spell to produce any effect other than
 duplicating another spell weakens you. After enduring that stress, each
