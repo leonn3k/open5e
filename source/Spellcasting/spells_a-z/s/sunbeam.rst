@@ -9,8 +9,11 @@ Sunbeam
 
 **Casting Time:** 1 action
 
-**Range:** Self (60 foot line) Components: V, S, M (a magnifying glass)
-Duration: Concentration, up to 1 minute
+**Range:** Self (60 foot line)
+
+**Components:** V, S, M (a magnifying glass)
+
+**Duration:** Concentration, up to 1 minute
 
 A beam of brilliant light flashes out from your hand in a 5 foot wide,
 60 foot long line. Each creature in the line must make a Constitution
