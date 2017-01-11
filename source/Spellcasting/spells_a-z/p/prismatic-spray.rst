@@ -9,7 +9,9 @@ Prismatic Spray
 
 **Casting Time:** 1 action
 
-**Range:** self (60 foot :ref:`srd:cone`) Components: V, S
+**Range:** self (60 foot :ref:`srd:cone`)
+
+**Components:** V, S
 
 **Duration:** Instantaneous
 
