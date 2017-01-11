@@ -9,7 +9,11 @@ Speak with Plants
 
 **Casting Time:** 1 action
 
-**Range:** self (30 foot radius) Components: V, S Duration: 10 minutes
+**Range:** self (30 foot radius)
+
+**Components:** V, S
+
+**Duration:** 10 minutes
 
 You imbue plants within 30 feet of you with limited sentience and
 animation, giving them the ability to communicate with you and follow
