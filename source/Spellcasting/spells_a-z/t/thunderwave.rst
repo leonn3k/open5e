@@ -9,7 +9,7 @@ Thunderwave
 
 **Casting Time:** 1 action
 
-**Range:** self (15 foot :ref:`srd:cube`)
+**Range:** Self (15 foot :ref:`srd:cube`)
 
 **Components:** V, S
 
